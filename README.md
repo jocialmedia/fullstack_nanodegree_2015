@@ -1,5 +1,8 @@
 # Secret Message Generator
 
+![alt tag](https://raw.github.com/jocialmedia/fullstack_nanodegree_secret/master/example_pics.png)
+
+https://github.com/jocialmedia/fullstack_nanodegree_secret-message-generator.git
 
 ## Description: 
 * With generate_secret_message.py a secret message can be generated. 
